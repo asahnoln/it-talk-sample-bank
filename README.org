@@ -1,0 +1,10 @@
+#+TITLE: Bank Example
+
+* What is this?
+That's just a sample of Test-Driven project, made collectively at a TDD presentation.
+
+* TODO:
+- +Create account+
+- +Deposit money+
+- +Withdraw money+
+- +Transfer money+
